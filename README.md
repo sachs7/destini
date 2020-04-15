@@ -12,4 +12,4 @@ A choose your own adventure game for iOS, built using Flutter and Dart as part o
 
 The final app will look like:
 
-![](destini-app.mov)
+![](destini.gif)
